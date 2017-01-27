@@ -1,0 +1,13 @@
+{
+  "changes": {
+      "name":"UI Fixes #122-jps",
+      "ChangePriority":"High Priority",
+      "ChangeStatus":"Draft",
+      "ChangeType":"Defect User Story",
+      "ChangeDeliveryRisk":"High Risk",
+      "ChangeTheme":"Legislative",
+      "RaisedByUser":"john.singer@plutora.com",
+      "Organization":"Enterprise Company",
+      "ChangeCustomFld":"(custom text)"
+      }
+}

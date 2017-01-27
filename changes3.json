@@ -1,0 +1,13 @@
+{
+  "changes": {
+      "name":"UI Fixes #29 for new UI",
+      "ChangePriority":"High",
+      "ChangeStatus":"Draft",
+      "ChangeType":"Defect Resolution",
+      "ChangeDeliveryRisk":"High Risk",
+      "ChangeTheme":"Legislative",
+      "RaisedByUser":"john.singer@plutora.com",
+      "Organization":"Enterprise",
+      "ChangeCustomFld":"(custom text)"
+      }
+}
